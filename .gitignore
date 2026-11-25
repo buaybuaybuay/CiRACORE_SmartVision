@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local certificates, generated speech, and runtime logs
+cache/
+logs/
+
+# Large or private local runtime assets
+model/
+videos/
